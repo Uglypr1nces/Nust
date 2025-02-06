@@ -54,6 +54,3 @@ NUST/
 
 Contributions are welcome! If you have ideas or improvements, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
